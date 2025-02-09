@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: dsna10-ops445
+    Linux system name: dsna10ops445-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/dsna10-ops445/ops445/lab4/lab4-template
+    Start at: Sat Feb  8 19:18:34 2025
+=================================================================
